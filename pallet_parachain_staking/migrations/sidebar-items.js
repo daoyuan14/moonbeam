@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["MigrateAtStakeAutoCompound","Migrate `AtStake` storage item to include auto-compound value for unpaid rounds."]]};
